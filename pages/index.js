@@ -12,7 +12,6 @@ export default function Home({ results }) {
         <title>Hulu 2.0</title>
         <link rel="icon" href="/favicon.ico"></link>
       </Head>
-
       <Header />
       <Nav />
       <Results results={results} />
